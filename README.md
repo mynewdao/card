@@ -1,9 +1,13 @@
 # card
-скопировать репозиторий командой 
+Проект card
+
+##Usage
+
+склонировать репозиторий командой 
 ```
 git clone https://github.com/mynewdao/card.git
 ```
-создать виртуальное окружение 
+создать виртуальное окружение с помощью [pip](https://pypi.org/)
 ```
 python3 -m venv <name_venv>
 ```
@@ -22,3 +26,6 @@ pip install -r req.txt
 ```
 python manage.py runserver
 ```
+
+##Contributing
+Можете отправлять PR
