@@ -1,7 +1,7 @@
 # card
 Проект card
 
-##Usage
+## Usage
 
 склонировать репозиторий командой 
 ```
@@ -27,5 +27,5 @@ pip install -r req.txt
 python manage.py runserver
 ```
 
-##Contributing
+## Contributing
 Можете отправлять PR
